@@ -4,6 +4,10 @@ https://user-images.githubusercontent.com/121444190/219764220-ccb17c41-2d2b-4073
 
 FiveM Casino Script
 
+# Buy
+
+https://discord.gg/CZdapRJJ8r
+
 This script has been optimized to use 0.00ms while idling.
 0.10ms FULL LOAD (3D Label loop)
 
