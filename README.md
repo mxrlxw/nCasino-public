@@ -4,6 +4,10 @@ https://user-images.githubusercontent.com/121444190/219764220-ccb17c41-2d2b-4073
 
 FiveM Casino Script
 
+# Youtube video
+
+https://youtu.be/EDV5J8hx7X4
+
 # Buy
 
 https://discord.gg/CZdapRJJ8r
